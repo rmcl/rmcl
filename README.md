@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Russell (@rmcl)
 - 👀 I’m interested in Biotechnology & AI as well as autonomous sailboats and circuit design. The latter two are more of a hobby :).
-- 🌱 I’m currently learning about prompt engineering & transformers
+- 🌱 I’m currently learning about computational protein engineering & transformers
 - 📫 How to reach me ... russmcl on that google powered mail service
 
 <!---
